@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Massa de Pizza",
+  "description": "Calculadora de engenharia de massas para pizzas de alta performance usando porcentagem de padeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
